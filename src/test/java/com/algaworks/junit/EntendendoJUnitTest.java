@@ -2,6 +2,7 @@ package com.algaworks.junit;
 
 import org.junit.*;
 
+
 public class EntendendoJUnitTest {
 
     @BeforeClass
